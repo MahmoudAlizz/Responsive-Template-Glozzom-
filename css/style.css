@@ -95,4 +95,8 @@ body{
     .text-center-resp{
         text-align: center;
     }
+    .p-resp{
+        padding-left:30px !important;
+        padding-right:30px !important;
+    }
 }
